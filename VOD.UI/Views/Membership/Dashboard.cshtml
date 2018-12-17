@@ -1,0 +1,20 @@
+﻿@model DashboardViewModel
+
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="membership top-margin">
+    <h2 class="text-dark">Dashboard</h2>
+    @foreach (var row in Model.Courses)
+    {
+        <div class="row">
+            @foreach (var course in row)
+            {
+                @await Html.PartialAsync("_CoursePanelPartial", course);
+            }
+        </div>
+    }
+    <hr class="thick margin" />
+</div>
+
