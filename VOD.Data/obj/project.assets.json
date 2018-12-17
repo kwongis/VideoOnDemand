@@ -12668,11 +12668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kwongis\\source\\repos\\PERSONAL\\VideoOnDemand\\VOD.Data\\VOD.Data.csproj",
+      "projectUniqueName": "C:\\Users\\kwongis\\Documents\\GitHub\\VideoOnDemand\\VOD.Data\\VOD.Data.csproj",
       "projectName": "VOD.Data",
-      "projectPath": "C:\\Users\\kwongis\\source\\repos\\PERSONAL\\VideoOnDemand\\VOD.Data\\VOD.Data.csproj",
+      "projectPath": "C:\\Users\\kwongis\\Documents\\GitHub\\VideoOnDemand\\VOD.Data\\VOD.Data.csproj",
       "packagesPath": "C:\\Users\\kwongis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kwongis\\source\\repos\\PERSONAL\\VideoOnDemand\\VOD.Data\\obj\\",
+      "outputPath": "C:\\Users\\kwongis\\Documents\\GitHub\\VideoOnDemand\\VOD.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
