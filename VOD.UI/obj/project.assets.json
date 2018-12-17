@@ -13319,11 +13319,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kwongis\\source\\repos\\PERSONAL\\VideoOnDemand\\VOD.UI\\VOD.UI.csproj",
+      "projectUniqueName": "C:\\Users\\kwongis\\Documents\\GitHub\\VideoOnDemand\\VOD.UI\\VOD.UI.csproj",
       "projectName": "VOD.UI",
-      "projectPath": "C:\\Users\\kwongis\\source\\repos\\PERSONAL\\VideoOnDemand\\VOD.UI\\VOD.UI.csproj",
+      "projectPath": "C:\\Users\\kwongis\\Documents\\GitHub\\VideoOnDemand\\VOD.UI\\VOD.UI.csproj",
       "packagesPath": "C:\\Users\\kwongis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kwongis\\source\\repos\\PERSONAL\\VideoOnDemand\\VOD.UI\\obj\\",
+      "outputPath": "C:\\Users\\kwongis\\Documents\\GitHub\\VideoOnDemand\\VOD.UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13342,8 +13342,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\kwongis\\source\\repos\\PERSONAL\\VideoOnDemand\\VOD.Data\\VOD.Data.csproj": {
-              "projectPath": "C:\\Users\\kwongis\\source\\repos\\PERSONAL\\VideoOnDemand\\VOD.Data\\VOD.Data.csproj"
+            "C:\\Users\\kwongis\\Documents\\GitHub\\VideoOnDemand\\VOD.Data\\VOD.Data.csproj": {
+              "projectPath": "C:\\Users\\kwongis\\Documents\\GitHub\\VideoOnDemand\\VOD.Data\\VOD.Data.csproj"
             }
           }
         }

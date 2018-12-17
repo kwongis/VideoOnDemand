@@ -21,3 +21,15 @@ C:\Users\kwongis\source\repos\Personal\VideoOnDemand\VOD.Data\obj\Debug\netcorea
 C:\Users\kwongis\source\repos\Personal\VideoOnDemand\VOD.Data\obj\Debug\netcoreapp2.0\VOD.Data.AssemblyInfo.cs
 C:\Users\kwongis\source\repos\Personal\VideoOnDemand\VOD.Data\obj\Debug\netcoreapp2.0\VOD.Data.dll
 C:\Users\kwongis\source\repos\Personal\VideoOnDemand\VOD.Data\obj\Debug\netcoreapp2.0\VOD.Data.pdb
+C:\Users\kwongis\Documents\GitHub\VideoOnDemand\VOD.Data\bin\Debug\netcoreapp2.0\VOD.Data.deps.json
+C:\Users\kwongis\Documents\GitHub\VideoOnDemand\VOD.Data\bin\Debug\netcoreapp2.0\VOD.Data.runtimeconfig.json
+C:\Users\kwongis\Documents\GitHub\VideoOnDemand\VOD.Data\bin\Debug\netcoreapp2.0\VOD.Data.runtimeconfig.dev.json
+C:\Users\kwongis\Documents\GitHub\VideoOnDemand\VOD.Data\bin\Debug\netcoreapp2.0\VOD.Data.dll
+C:\Users\kwongis\Documents\GitHub\VideoOnDemand\VOD.Data\bin\Debug\netcoreapp2.0\VOD.Data.pdb
+C:\Users\kwongis\Documents\GitHub\VideoOnDemand\VOD.Data\obj\Debug\netcoreapp2.0\VOD.Data.csprojAssemblyReference.cache
+C:\Users\kwongis\Documents\GitHub\VideoOnDemand\VOD.Data\obj\Debug\netcoreapp2.0\VOD.Data.csproj.CoreCompileInputs.cache
+C:\Users\kwongis\Documents\GitHub\VideoOnDemand\VOD.Data\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\kwongis\Documents\GitHub\VideoOnDemand\VOD.Data\obj\Debug\netcoreapp2.0\VOD.Data.AssemblyInfoInputs.cache
+C:\Users\kwongis\Documents\GitHub\VideoOnDemand\VOD.Data\obj\Debug\netcoreapp2.0\VOD.Data.AssemblyInfo.cs
+C:\Users\kwongis\Documents\GitHub\VideoOnDemand\VOD.Data\obj\Debug\netcoreapp2.0\VOD.Data.dll
+C:\Users\kwongis\Documents\GitHub\VideoOnDemand\VOD.Data\obj\Debug\netcoreapp2.0\VOD.Data.pdb
