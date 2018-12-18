@@ -34,8 +34,8 @@ namespace VOD.UI.Repositories
             CourseId = 2 },
         new UserCourse { UserId = "0a928f8f-7a09-405e-8043-5bb01816f83e",
             CourseId = 3 },
-        new UserCourse { UserId = "0a928f8f-7a09-405e-8043-5bb01816f83e",
-            CourseId = 1 }
+        //new UserCourse { UserId = "0a928f8f-7a09-405e-8043-5bb01816f83e",
+        //    CourseId = 1 }
     };
         List<Module> _modules = new List<Module>
     {
